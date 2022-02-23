@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# EpiCass in-person bioinformatics workshop & online mini-symposium
 
-You can use the [editor on GitHub](https://github.com/LandiMi2/EpiCass-workshop-program/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to EpiCass bionformatucs workshops and mini-symposium. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bioiformatics workshop program
+### Stage one 
 
-### Markdown
+| **Day** | **Morning Session** | **Morning Session Time** | **Afternoon Session** |
+|:-------:|:---------------------------|:-----------------------------:|:-----------------------------:|
+| Day 1 | **a.** Introduction to Linux - part one introduction - **_Erik Bongcam Rudloff_** <br /> **b.** Introduction to Linux - part two - basic commands - **_Michael Landi_** <br /> **c.** Introduction to Linux - part three - advanced commands - **_Temitayo Olagunju_** | 08:00 - 08:50am WAT<br />09:00 - 09:50am WAT<br  />10:00 - 10:50am WAT | Hands-on for Linux - practical session - **_Andreas Gisel, Trushar Shah, Temitayo Olagunju, Michael Landi_** |
+| Day 2 | **a.** Recap on Day 1  - **_Erik Bongcam Rudloff_** <br/> **b.** Introduction to NGS - **_Laurent Falquet_** <br/> **c.** NGS Quality Control and file formats - **_Michael Landi_** <br/> **d.** NGS Mapping and file formats - **_Trushar Shah_** | 08:00 - 08:25am WAT <br/> 08:30 - 09:20am WAT <br/> 09:30 - 10:10am WAT <br/> 10:20 - 11:00am WAT | Hands-on for QC and mapping - practical session  - **_Andreas Gisel, Trushar Shah, Temitayo Olagunju, Michael Landi_** |
+| Day 3 | **a.** Recap on Day 2 - **_Erik Bongcam Rudloff_** <br/> **b.** NGS Assembly - Introduction - **_Laurent Falquet_** <br /> **c.** NGS Assembly – Different technologies - **_Adnan Niazi_** <br/> **d.** Hands-on for data preparation - practical session  | 08:00 - 08:25am WAT <br /> 08:30 - 09:20am WAT <br /> 09:30 - 10:10am WAT <br/> 10:20 - 11:00am WAT| Hands-on for assembly - practical session - **_Laurent Falquet,Adnan Niazi, Andreas Gisel, Trushar Shah,Temitayo Olagunju, Michael Landi_** |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LandiMi2/EpiCass-workshop-program/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ ## **Mini-symposium program**  
+| **Topic** | **Speaker** | **Time** |
+|:---------:|:------------|:--------:|
+|Greetings and EpiCass Introduction| **_Erik Bongcam Rudloff_** |08:00 - 08:25am WAT| 
+|Cassava Breeding talk|**_Ismail Rabbi_** | 08:30 - 09:10am WAT |
+|Cassava Diseases talk| **_Kawuki RS_** | 09:20 - 10:00am WAT |
+|Epigenetics talk| **_Steve Jacobsen_** | 10:10 - 10:50am WAT |
+|Lunch break| | 11:00am - 13:00pm WAT|
+|Epigenetics & breeding talk| **_Ueli Grossniklaus_**| 13:00 – 13:40pm WAT |
+|Epigenetics & breeding talk| **_Frank Johannes_** | 13:50 – 14:30pm WAT|
+|Epigenetics & breeding talk| **_Rajeev K. Varshney_** |14:40 – 15:20pm WAT|
+|Open discussion|**_All_**| 15:30 – 16:00pm WAT|
