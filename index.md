@@ -1,3 +1,11 @@
+---
+layout: default
+title: EpiCass Project workshop 
+description: 
+
+---
+
+
 # EpiCass in-person bioinformatics workshop & online mini-symposium
 
 Welcome to EpiCass bioinformatics workshops and mini-symposium. 
